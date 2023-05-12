@@ -1,0 +1,2 @@
+Scanner sc New Scanner(System.in);
+System.out,println("This My First GIT");
